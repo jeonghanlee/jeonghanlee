@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Jeonghanlee's github stats](https://github-readme-stats.vercel.app/api?username=jeonghanlee)](https://github.com/jeonghanlee)
 
-- :sound: Pronouns: /han/
+- :sound: Pronouns: /haan/
 
 - :scientist: He has spent his time to understand very small things, which most people don't care about, such as the chrial quark model, [the strange quark contribution to a proton structure](https://www.jlab.org/research/strange_quarks), and [the weak charge of a proton](https://www.nature.com/articles/d41586-018-05037-9) within [the Standard Model](https://home.cern/science/physics/standard-model). While doing them, he spends his time to fix very small things, which most people don't care about, such as few byte memory leakage, to solve the equation of motion of wire scanner, to reassemble recycle dipole magnets, to save super expensive beam-on time, even if it is less than 10 mins, with various automation tools and procedures, to fix silly bugs (e.g., hit enter only twice, then crash) in various scripts, to minimize the measurement statistical and systematic errors, to analyze strange multi-hit histogram from particle tracking system with the [stable marriage algorithm](
 https://en.wikipedia.org/wiki/Stable_marriage_problem), that [Nobel Prize in Economics](

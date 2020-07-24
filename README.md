@@ -25,7 +25,7 @@ https://www.nobelprize.org/prizes/economic-sciences/2012/summary/) was awarded, 
 
 - :man_technologist: He really likes to build a serial cable to connect serial device to where he would like to connect while he enjoys to see how many different ways vendors explain the simple serial interface.  He always has a colorful label sticker :label: and a Dymo label maker on his desk.  
 
-- :man: He plays a fork guitar :guitar: from time to time, and loves to brew a cup of coffee :coffee: by hand operated grain mills. His favorite coffee is the Starbucks Pike place. He has a small dream that to be at Pike place and to drink a cup of the Pike place. And  He loves Debian Linux :penguin:.
+- :man: He plays a fork guitar :guitar: from time to time, and loves to brew a cup of coffee :coffee: by hand operated grain mills. His favorite coffee is the Starbucks Pike place. He has a small dream that to be at [the Pike place market](https://goo.gl/maps/Pib42iBvtpr7abo97) and to drink a cup of the Pike place. And  He loves Debian Linux :penguin:.
 
 - :smiley: He is currently working on an ongoing upgrade project of the Advanced Light Source (ALS) at [Lawrence Berkeley National Laboratory](https://als.lbl.gov/)  
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jeonghanlee/jeonghanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,4 @@ https://www.nobelprize.org/prizes/economic-sciences/2012/summary/) was awarded, 
 
 - :smiley: He is currently working on an ongoing upgrade project of the Advanced Light Source (ALS) at [Lawrence Berkeley National Laboratory](https://als.lbl.gov/)  
 
+- [His LinkedIn](https://www.linkedin.com/in/jeonghanlee)

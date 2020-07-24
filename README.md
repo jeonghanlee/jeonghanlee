@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Jeonghanlee's github stats](https://github-readme-stats.vercel.app/api?username=jeonghanlee)](https://github.com/jeonghanlee)
+
+
+- :smiley: He is currently working on an ongoing upgrade of the Advanced Light Source (ALS) at Lawrence Berkeley National Laboratory https://als.lbl.gov/
+
+- :sound: Pronouns: /han/
+
+- :scientist: He has spent his time to understand very small things, which most people don't care about, such as the chrial quark model, the strange quark contribution to a proton structure, and the weak charge of a proton within the Standard Model. While doing them, he spends his time to fix very small things, which most people don't care about, such as few byte memory leakage, to solve the equation of motion of wire scanner, to reassemble recycle dipole magnets, to save super expensive beam-on time, even if it is less than 10 mins, with various automation tools and procedures, to fix silly bugs (e.g., hit enter only twice, then crash) in various scripts, to minimize the measurement statistical and systematic errors, to analyze strange multi-hit histogram from particle tracking system with the stable marriage algorithm, that  Nobel Prize in Economics was awarded , to find many typo and missing information in many technical reference books for various hardware from various vendors.  
+
+- :man_technologist: He really likes to build a serial cable to connect serial device to where he would like to connect while he enjoys to see how many different ways vendors explain the simple serial interface.  He always has a colorful label sticker :label: and a Dymo label maker on his desk.  
+
+- :man: He plays a fork guitar :guitar: from time to time, and loves to brew a cup of coffee :coffee: by hand operated grain mills. His favorite coffee is the Starbucks Pike place. He has a small dream that to be at Pike place and to drink a cup of the Pike place. And  He loves Debian Linux :penguin:.
+

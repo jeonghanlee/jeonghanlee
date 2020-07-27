@@ -31,4 +31,4 @@ https://www.nobelprize.org/prizes/economic-sciences/2012/summary/) was awarded, 
 
 - [His LinkedIn](https://www.linkedin.com/in/jeonghanlee)
 
-- Even if he is not doing any physics-related research activities now, there are a plenty of papers one would like to see at [Google Scholar](https://scholar.google.com/citations?user=wndzj0AAAAAJ&hl=en&authuser=1)
+- Even if he is not doing any physics-related research activities now, there are a handful of research and technical papers at [Google Scholar](https://scholar.google.com/citations?user=wndzj0AAAAAJ&hl=en&authuser=1)

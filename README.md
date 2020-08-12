@@ -29,8 +29,8 @@ https://www.nobelprize.org/prizes/economic-sciences/2012/summary/) was awarded, 
 
 - :smiley: He is currently working on an ongoing upgrade project of the Advanced Light Source (ALS) at [Lawrence Berkeley National Laboratory](https://als.lbl.gov/)  
 
-- [His LinkedIn](https://www.linkedin.com/in/jeonghanlee)
+- [LinkedIn : https://hub.docker.com/u/jeonghanlee](https://www.linkedin.com/in/jeonghanlee)
 
-- [His DockerHub](https://hub.docker.com/jeonghanlee)
+- [DockerHub : https://hub.docker.com/u/jeonghanlee](https://hub.docker.com/u/jeonghanlee)
 
 - Even if he is not doing any physics-related research activities now, there is a handful of research and technical papers at [Google Scholar](https://scholar.google.com/citations?user=wndzj0AAAAAJ&hl=en&authuser=1)

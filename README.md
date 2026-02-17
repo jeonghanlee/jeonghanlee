@@ -8,6 +8,4 @@
 
 + [LinkedIn : https://www.linkedin.com/in/jeonghanlee](https://www.linkedin.com/in/jeonghanlee)
 
-+ [DockerHub : https://hub.docker.com/u/jeonghanlee](https://hub.docker.com/u/jeonghanlee)
-
 + Even if he is not doing any physics-related research activities now, there is a handful of research and technical papers at [Google Scholar](https://scholar.google.com/citations?user=wndzj0AAAAAJ&hl=en&authuser=1) or [ORCID](https://orcid.org/0000-0002-1699-2660)

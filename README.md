@@ -8,7 +8,7 @@ Currently, I am focused on architecting an AI-native operational ecosystem desig
 
 I am dedicated to building resilient, data-driven infrastructures where every component—from physical rack configurations and network topologies to real-time software signals—is synchronized within a unified, transparent architecture. My goal is to lead large-scale facilities into an agile future, where technical integrity and technological innovation drive scientific excellence.
 
-## **Core Expertise:*
+## **Core Expertise:**
 
 * Strategic Governance: Project Planning (WBS), Resource Optimization, Staff Development.
 * System Architecture: Distributed Control Systems (EPICS), High-Fidelity Digital Twins.

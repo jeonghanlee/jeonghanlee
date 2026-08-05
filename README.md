@@ -1,17 +1,23 @@
 ## Hello, there!
 
-**Experimental Physicist and System Architect** with over 20 years of international experience in the design, high-availability operation, and strategic governance of large-scale scientific facilities. My professional identity is defined by a career-long pursuit of "Signal Sincerity"—ensuring an absolute correspondence between digital telemetry and the physical reality of the field.
+I build and operate the infrastructure behind large scientific facilities — particle accelerators, mostly, across national and European laboratories. The repositories here are the tools that work produced: build and deployment environments, IOC and console lifecycle utilities, provisioning playbooks, documentation pipelines, and mitigation scripts for legacy systems.
 
-I possess a proven track record of bridging administrative oversight with technical execution. Having successfully led multi-disciplinary teams through complex project phases—including the management of large-scale Work Breakdown Structures (WBS) and multi-million-dollar budgets—I have consistently maintained a deep, hands-on involvement in the technical baseline.
+Most of them exist because something on the floor did not match what the records said it was.
 
-Currently, I am focused on architecting an AI-native operational ecosystem designed to eliminate institutional technical debt. My work involves defining the strategic roadmap for next-generation accelerator controls, integrating high-fidelity Digital Twins with advanced Early Detection frameworks. By utilizing experimental physics analysis tools such as ROOT alongside modern protocols like the Model Context Protocol (MCP), I am pioneering high-velocity, AI-assisted development workflows that ensure long-term facility sustainability.
+### What I work on
 
-I am dedicated to building resilient, data-driven infrastructures where every component—from physical rack configurations and network topologies to real-time software signals—is synchronized within a unified, transparent architecture. My goal is to lead large-scale facilities into an agile future, where technical integrity and technological innovation drive scientific excellence.
+- **Program delivery** — work breakdown structure, schedule and resource planning, commissioning playbooks, operational handover
+- **Physical infrastructure** — rack layout and installation, cabling, network topology and bring-up, equipment receiving and asset tracking
+- **Control systems** — EPICS-based distributed control, IOC lifecycle, console and terminal tooling
+- **Build and deployment** — reproducible environments across Rocky Linux and Debian, Dockerized CI/CD, versioned releases
+- **Records and verification** — single-source-of-truth documentation pipelines, auditable approval lifecycles, non-conformance reporting
+- **AI-assisted engineering** — agent workflows for documentation, review, and provisioning, with skills, memory, and environment kept in one shared repository
 
-## **Core Expertise:**
+### A principle I keep coming back to
 
-* Strategic Governance: Project Planning (WBS), Resource Optimization, Staff Development.
-* System Architecture: Distributed Control Systems (EPICS), High-Fidelity Digital Twins.
-* Technical Integrity: Signal Sincerity, Quality Assurance (NCR), Asset Management (AMS).
-* Future Innovation: AI-Assisted Engineering, Early Detection Frameworks, ROOT-based Data Analysis.
-* Infrastructure Lifecycle: Hardware-Software Synchronization, Network Topology Optimization.
+Infrastructure fails where the digital record drifts away from physical reality. Not because anyone lied, but because a record can only hold what was measured. So I build the pieces that hold the two together: one dataset behind every drawing and configuration file, trails that record what was held back as well as what shipped, and verification that says how many out of how many.
+
+I write about this at
+[jeonghanlee.github.io/essay-site](https://jeonghanlee.github.io/essay-site/).
+
+*I may be slow to respond.*
